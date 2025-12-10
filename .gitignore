@@ -1,0 +1,6 @@
+# Cargo build artifacts
+/target
+
+# macOS system dummy files
+.DS_Store
+Thumbs.db
